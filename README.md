@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi humans!
+
+Just try another story 2017-11-06
